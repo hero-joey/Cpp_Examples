@@ -130,3 +130,4 @@ int main()
 
 参考资料：https://sourceforge.net/p/log4cplus/wiki/CodeExamples/
 
+代码路径:https://github.com/hero-joey/Cpp_Examples/tree/main/PracticeSample/LogSample
