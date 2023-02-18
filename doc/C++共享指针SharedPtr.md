@@ -162,3 +162,8 @@ int main()
 
 ##### shared_ptr存在循环引用的问题, 见weak_ptr。
 
+
+
+原始参考英文网站: https://thispointer.com/c11-tutorial/
+
+代码参考: https://github.com/hero-joey/Cpp_Examples/tree/main/C11Sample/SharedPtrSample

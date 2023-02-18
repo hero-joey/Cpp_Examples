@@ -92,3 +92,10 @@ int main()
 ##### unique_ptr不支持拷贝或者赋值, 但可以通过std::move()转移所有权，转移后之前的unique_ptr为空。
 
 ##### unique_ptr同样支持release()或者reset(), release释放原始指针后unique_ptr为空, 需要自行释放原始指针内存。
+
+
+
+原始参考英文网站: https://thispointer.com/c11-tutorial/
+
+代码参考: https://github.com/hero-joey/Cpp_Examples/tree/main/C11Sample/UniquePtrSample
+
